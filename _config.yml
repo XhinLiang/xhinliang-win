@@ -12,7 +12,7 @@ timezone:
 avatar: /uploads/avatar.png
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://xhinliang.win
+url: https://blog.xhinliang.com
 root: /
 permalink: :year/:month/:title/
 permalink_defaults:
@@ -70,6 +70,6 @@ theme: hueman
 deploy:
   type: git
   repo: git@github.com:xhinliang/xhinliang.github.io.git
-  banch: master
+  branch: master
 
 duoshuo_shortname: xhinliang
